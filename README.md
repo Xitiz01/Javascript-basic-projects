@@ -1,6 +1,6 @@
 # Javascript-basic-projects
 Basic Vanilla Javascript projects
-# List of small projects that it include 
+# List of small projects it include 
 1. Calculator
 2. Quizz App
 3. Rock Paper Scissors
